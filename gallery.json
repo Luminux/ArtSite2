@@ -1,0 +1,20 @@
+[
+  {
+    "image": "images/image1.png",
+    "title": "Red Dot",
+    "description": "A tiny red pixel representing minimalism.",
+    "generated_at": "2023-07-01",
+    "image_prompt": "create a solid red pixel",
+    "weather": "A clear day with bright sun.",
+    "weather_prompt": "Describe a typical sunny day."
+  },
+  {
+    "image": "images/image2.png",
+    "title": "Green Dot",
+    "description": "A tiny green pixel symbolizing life.",
+    "generated_at": "2023-07-02",
+    "image_prompt": "create a solid green pixel",
+    "weather": "Light rain drizzling over the city.",
+    "weather_prompt": "Describe a rainy afternoon in the city."
+  }
+]
